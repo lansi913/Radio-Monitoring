@@ -22,16 +22,15 @@ The folder consists of three parts:
 * **Run 'fine_tune_LoRA.py' file, you can get the finetuned results** regarding to the arrhythmia of premature ventricular contraction. You can also try other arrhythmias in the fintuning dataset. A pre-trained model weight file for testing purposes can be downloaded from the link in the file 'Model_weights.txt'. 
 * It is recommended to change your execution path to the current system directory of code. This allows you to avoid modifying the relative import paths of these files when running Python scripts. 
 
----
-
-# 🔧 Installation
+## 🔧 Installation
 
 Install Python 3.9 or higher version and necessary dependencies.
 
 `
 pip install -r requirements.txt 
 `
-###
+
+---
 
 # 🔥 Pre-traing and Fine-tunning neraul network
 
